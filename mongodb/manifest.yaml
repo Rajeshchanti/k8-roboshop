@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: RajeshChanti/mongodb:v1
+        image: rajeshchanti/mongodb:v1
         imagePullPolicy: Always
 ---
 #clusterIP creation
